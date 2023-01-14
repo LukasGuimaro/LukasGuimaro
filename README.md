@@ -1,11 +1,41 @@
-## Bem-vindo(a) ao Meu Perfil 😁
+## Bem-vindo(a) ao Meu Perfil 👾
 
- <div align="center">
- <a href="https://github.com/LukasGuimaro">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukasGuimaro&layout=compact&langs_count=6&theme=dracula"/>  
- </div>
+<img src="https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Code">
 
-## Olá, eu sou o Lucas :sweat_smile:
+<p align="left"> 
+  Discente do curso técnco em informática pelo Instituto Federal de Mato Grosso do Sul, estudante e entusiasta em <strong>Desenvolvimento Web</strong>. >_<
+</p>
+
+<p align="left">
+  🦄 Linguagens: <strong>HTML | CSS | JavaScript | C | Java | SQL.</strong>
+</p>
+
+<p align="left">
+  💼 Ferramentas: <strong>Linux | VS Code | MySQL | PostgreSQL.</strong>
+</p>
+
+<p align="left">
+  💌 Formas de contato: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+
+  <a href="#" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+
+  <a href="#" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
+
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+</p> 
+
+## Olá, eu sou o Lucas 😝
 ### Sobre mim
 - :technologist: Cursando o Curso Técnico em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul (IFMS).
 - :rocket: Interesse: HTML, CSS, JavaScript, TypeScript, React, PHP, Mysql, Linux.
@@ -25,12 +55,6 @@
 </div>
  
  <br>
- 
-  ## Formas de Contato:
- 
-<div> 
-  <a href = "mailto:lucas.guimaro.comerce@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-guimaro-b84b57253/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/LukasGuimaro/LukasGuimaro/blob/output/github-contribution-grid-snake.svg)
 
