@@ -1,13 +1,13 @@
 ## Bem-vindo(a) ao Meu Perfil 👾
 
-<img src="https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Code">
+<img src="https://media.tenor.com/qcRyvCfW5T8AAAAC/pixel-snow.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Code">
 
 <p align="left"> 
   Discente do curso técnco em informática pelo Instituto Federal de Mato Grosso do Sul, estudante e entusiasta em <strong>Desenvolvimento Web</strong>. >_<
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML | CSS | JavaScript | C | Java | SQL.</strong>
+  🦄 Linguagens: <strong>HTML | CSS | JavaScript | Java | SQL.</strong>
 </p>
 
 <p align="left">
@@ -26,24 +26,20 @@
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN"/></a>
 </p> 
 
-## Olá, eu sou o Lucas 😝
-### Sobre mim
-- :technologist: Cursando o Curso Técnico em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul (IFMS).
-- :rocket: Interesse: HTML, CSS, JavaScript, TypeScript, React, PHP, Mysql, Linux.
-- :mortar_board: Entusiasta em Desenvolvimento Web (Front-end).
-- :zap: Ultimamente tenho me rendido a programação, em meio a infinidade softwares e tecnologias, já me dei por convencido que irei levar isto para minha vida, enfim... vai que cola!
+## Estudos :mortar_board:
 
-## Minhas Skills :nerd_face:
+ 🧑🏻‍🚀 Interesse: HTML, CSS, JavaScript, TypeScript, React, Node.js, PHP, Mysql, Linux.
 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img  align="center" alt="Debian" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain-wordmark.svg" />
-   <img  align="center" alt="Debian" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-          
-</div>
+## 🚀 Minhas Skills
+
+<code><img height="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="HTML5"/></code>
+<code><img height="32" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202020css3htmllogosocialsocialmedia-115668_115633.png" alt="CSS"/></code>
+<code><img height="32" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+<code><img height="32" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" alt="MySQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
+<code><img height="32" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/linux_original_logo_icon_146433.png" alt="Linux"/></code>
+<code><img height="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="Git"/></code>
  
  <br>
  
