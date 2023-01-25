@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao Meu Perfil 👾
 
-<img src="https://media.tenor.com/qcRyvCfW5T8AAAAC/pixel-snow.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Code">
+<img src="https://media.tenor.com/qcRyvCfW5T8AAAAC/pixel-snow.gif" min-width="380px" max-width="380px" width="380px" align="right" alt="Code">
 
 <p align="left"> 
   Discente do curso técnco em informática pelo Instituto Federal de Mato Grosso do Sul, estudante e entusiasta em <strong>Desenvolvimento Web</strong>. >_<
