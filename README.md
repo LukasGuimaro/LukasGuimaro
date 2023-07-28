@@ -1,9 +1,13 @@
 ## Bem-vindo(a) ao Meu Perfil 👾
 
-<img src="https://media.tenor.com/qcRyvCfW5T8AAAAC/pixel-snow.gif" min-width="380px" max-width="380px" width="380px" align="right" alt="Code">
+<img src="https://media.tenor.com/sboZxklZ2pcAAAAC/8bit-space.gif" min-width="380px" max-width="380px" width="380px" align="right" alt="Code">
 
 <p align="left"> 
-  Discente do curso técnco em informática pelo Instituto Federal de Mato Grosso do Sul, estudante e entusiasta em <strong>Desenvolvimento Web</strong>. >_<
+  🕹️ Técnico em informática pelo Instituto Federal de Educação, Ciência, e Tecnologia de Mato Grosso do Sul (IFMS). estudante e entusiasta em <strong>Desenvolvimento Web</strong>. >_<
+</p>
+
+<p align="left">
+  🎓 Cursando Superior <strong>Tecnologia em Sistemas Para Internet (TSI)</strong> pelo IFMS.
 </p>
 
 <p align="left">
@@ -11,7 +15,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Linux | VS Code | MySQL | PostgreSQL.</strong>
+  🖥️ Ferramentas: <strong>Linux | VS Code | MySQL | PostgreSQL.</strong>
 </p>
 
 <p align="left">
@@ -28,7 +32,7 @@
 
 ## Estudos :mortar_board:
 
- 🧑🏻‍🚀 Interesse: HTML, CSS, JavaScript, TypeScript, React, Node.js, PHP, Mysql, Linux.
+ 🛰️ Interesse: HTML, CSS, JavaScript, TypeScript, React, Node.js, PHP, Mysql, Linux.
 
 ## 🚀 Minhas Skills
 
@@ -38,11 +42,9 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
-<code><img height="32" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/linux_original_logo_icon_146433.png" alt="Linux"/></code>
 <code><img height="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="Git"/></code>
+<code><img height="32" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/linux_original_logo_icon_146433.png" alt="Linux"/></code>
  
  <br>
- 
-  ![Snake animation](https://github.com/LukasGuimaro/LukasGuimaro/blob/output/github-contribution-grid-snake.svg)
 
 </div>
