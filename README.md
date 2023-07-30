@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML | CSS | JavaScript | Java | SQL.</strong>
+  🦄 Linguagens: <strong>JavaScript | PHP | Java | SQL.</strong>
 </p>
 
 <p align="left">
