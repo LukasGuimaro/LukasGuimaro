@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao Meu Perfil 👾
 
-<img src="https://media.tenor.com/sboZxklZ2pcAAAAC/8bit-space.gif" min-width="380px" max-width="380px" width="380px" align="right" alt="Code">
+<img src="https://soranews24.com/wp-content/uploads/sites/3/2015/07/tumblr_njlqclfisw1qze3hdo1_r2_500.gif" min-width="380px" max-width="380px" width="380px" align="right" alt="Code">
 
 <p align="left"> 
   🕹️ Técnico em informática pelo Instituto Federal de Educação, Ciência, e Tecnologia de Mato Grosso do Sul (IFMS). estudante e entusiasta em <strong>Desenvolvimento Web</strong>. >_<
