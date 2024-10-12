@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>JavaScript | PHP | Java | SQL.</strong>
+  🦄 Linguagens: <strong> PHP | Java | SQL.</strong>
 </p>
 
 <p align="left">
@@ -32,13 +32,12 @@
 
 ## Estudos :mortar_board:
 
- 🛰️ Interesse: HTML, CSS, JavaScript, TypeScript, React, Node.js, PHP, Mysql, Linux.
+ 🛰️ Interesse:  PHP, Laravel, Java, Mysql, PostgresSQL, Linux.
 
 ## 🚀 Minhas Skills
 
-<code><img height="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="HTML5"/></code>
-<code><img height="32" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202020css3htmllogosocialsocialmedia-115668_115633.png" alt="CSS"/></code>
-<code><img height="32" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="Javascript"/></code>
+<code><img height="32" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/php_icon_130857.png" alt="PHP"/></code>
+<code><img height="32" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="Java"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
